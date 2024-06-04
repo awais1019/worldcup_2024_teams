@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorldCup2024Teams</string>
+    <string name="world_cup_pic">world cup pic</string>
+    <string name="view_teams">Click here to view teams</string>
+</resources>
